@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                background-image: url("https://www.bird-wittenbergdental.com/wp-content/uploads/2017/01/top-line-management-login-background-1.jpg");
+                background-size: cover;
+            }
+        </style>
+    </head>
+    <body>
+        <center><form>
+        <h1><font color="blue" size="8" face="impact">OLX BUY AND SELL login page</font></h1><hr><hr>
+        <label style="padding-left: 16px;">LOGIN ID    :-</label>
+        <input type="text"><br><br>
+        <label>PASSWORD    :-</label>
+        <input type="password"><br><br>
+        <button>SUBMIT</button>
+        </form>
+        <a href="file:///C:/Users/Ashrith%20Reddy/Desktop/OLX/home.html">SUBMIT</a><br>
+        <a href="file:///C:/Users/Ashrith%20Reddy/Desktop/OLX/sign%20in%20page.html">SIGN UP</a></a>
+        </center>
+    </body>
+</html>
