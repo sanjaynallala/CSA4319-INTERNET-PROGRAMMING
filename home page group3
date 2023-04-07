@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                background-image: url("https://www.lsretail.com/hubfs/BLOG_deliver-better-online-grocery-shopping.jpg");
+                background-size: cover;
+            }
+        </style>
+    </head>
+    <body>
+        <form>
+        <hr><img src="C:\Users\Ashrith Reddy\Pictures\Saved Pictures\olx.jpeg" weidth="30" height="30">
+        <label style="padding-left:20px"><font color="blue" size="6">location</font></label>
+        <select option="location">
+            <option value="india">india</option>
+            <option value="pakistan">pakistan</option>
+            <option value="usa">usa</option>
+            <option value="uk">uk</option>
+            <option value="franse">france</option>
+        </select>
+        <label style="padding-left: 20px;"></label>
+        <input type="text">
+        <button>search</button>
+        <label style="padding-left: 20px;">language</label>
+        <select option="language">
+            <option value="english">english</option>
+            <option value="telugu">telugu</option>
+            <option value="tamil">tamil</option>
+            <option value="hindi">hindi</option>
+        </select><hr>
+        <fieldset>
+            <label>ALL CATEGORIES</label>
+            <select option="ALL CATEGORIES">
+                <option value="CARS">CARS</option>
+                <option value="BIKES">BIKES</option>
+                <option value="MOBILES">MOBILES</option>
+                <option value="JOBS">JOBS</option>
+            </select>
+            <fieldset style="padding-left: 250px;">
+            <a href="file:///C:/Users/Ashrith%20Reddy/Desktop/OLX/cars.html">CARS</a>
+            <a href="file:///C:/Users/Ashrith%20Reddy/Desktop/OLX/bikes.html">MOTOR BIKES</a>
+            <button>mobile phones</button>
+            <button>for sale:houses and apartments</button>
+            <button>scooty</button>
+            <button>commercial and others</button>
+            <button>for rent hous</button>
+            </fieldset>
+            </fieldset>
+            <fieldset>
+            <img src="https://pngimg.com/uploads/volkswagen/volkswagen_PNG1821.png" width="100" height="100">
+            <p>name:vokeswagon polo<br>type:fuel<br>cost:400000</p>
+            <a href="file:///C:/Users/Ashrith%20Reddy/Desktop/OLX/imades.html">buy</a>
+        
+            </fieldset>
+            
+        </form>
+    </body>
+</html>
