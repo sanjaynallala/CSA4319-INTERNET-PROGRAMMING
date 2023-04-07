@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                background-image: url("https://static.timesofisrael.com/www/uploads/2017/11/shopping-cart-cropped.jpg");
+                background-size: cover;
+            }
+        </style>
+    </head>
+    <body>
+        <center><form>
+        <h1><font color="blue" size="8" face="impact">OLX BUY AND SELL sign in page</font></h1><hr><hr>
+        <label style="padding-left: 16px;">user name    :-</label>
+        <input type="text"><br><br>
+        <label style="padding-left: 16px;">mail id    :-</label>
+        <input type="text"><br><br>
+        <label style="padding-left: 16px;">password   :-</label>
+        <input type="password"><br><br>
+        <label style="padding-left: 16px;">conform password   :-</label>
+        <input type="password"><br><br>
+        </form>
+        <a href="file:///C:/Users/Ashrith%20Reddy/Desktop/OLX/login.html">sign up</a>
+        </center>
+    </body>
+</html>
