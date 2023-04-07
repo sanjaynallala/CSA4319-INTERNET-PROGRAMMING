@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>cars</title>
+    </head>
+    <body>
+        <fieldset>
+        <img src="https://pngimg.com/uploads/volkswagen/volkswagen_PNG1821.png" width="100" height="100">
+            <p>name:vokeswagon polo<br>type:fuel<br>cost:400000</p>
+            <a href="file:///C:/Users/Ashrith%20Reddy/Desktop/OLX/imades.html"><font size="5" face="arial" style="padding-left: 500px;";">buy</font></a>
+        </fieldset>
+        <fieldset>
+            <img src="https://www.hdnicewallpapers.com/Walls/Big/Chevrolet/Black_Chevrolet_Bumblebee_Car_Wallpaper.jpg" width="100" height="100">
+                <p>name:BENZ<br>type:fuel<br>cost:5000000</p>
+                <a href="file:///C:/Users/Ashrith%20Reddy/Desktop/OLX/images%202.html"><font size="5" face="arial" style="padding-left: 500px;";">buy</font></a>
+        </fieldset>
+        <fieldset>
+            <img src="https://wallpapercave.com/wp/GqtBHOt.jpg" width="100" height="100">
+                <p>name:vokeswagon polo<br>type:fuel<br>cost:400000</p>
+                <a href="file:///C:/Users/Ashrith%20Reddy/Desktop/OLX/image%203.html"><font size="5" face="arial" style="padding-left: 500px;";">buy</font></a>
+        </fieldset>
+    </body>
+</html>
