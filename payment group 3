@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <style>
+        body{
+            background-image: url("https://unblast.com/wp-content/uploads/2018/11/Payment-Icons.jpg");
+            background-size: cover;
+        }
+    </style>
+    </head>
+    <body>
+        <h1>PAYMENT METHODA</h1>
+        <p>more ways to pay</p>
+        <fieldset>
+        <fieldset><label><input type="radio" name="PAYMENT METHODA" value="UPI APPS/NET BANKING">UPI APPS/NET BANKING</label><br></fieldset>
+        <fieldset><label><input type="radio" name="PAYMENT METHODA" value="DEBIT/CREDIT CARDS">DEBIT/CREDIT CARDS</label><br></fieldset>
+        <fieldset><label><input type="radio" name="PAYMENT METHODA" value="EMI">EMI</label><br></fieldset>
+        <fieldset><label><input type="radio" name="PAYMENT METHODA" value="CASH ON DELIVARY">CASH ON DELIVARY</label></fieldset>
+        </fieldset><br><br><br>
+        <center><button>CONTINUE</button></center>
+
+    </body>
+</html>   
